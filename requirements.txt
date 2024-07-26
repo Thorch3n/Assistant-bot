@@ -1,0 +1,9 @@
+python-telegram-bot==20.0a6
+openai==0.27.0
+google-auth==2.22.0
+google-auth-oauthlib==0.7.1
+google-auth-httplib2==0.1.0
+google-api-python-client==2.76.0
+py-trello==1.7.0
+secure-smtplib==0.1.1
+python-dotenv==1.0.0
